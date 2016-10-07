@@ -1,6 +1,6 @@
 {
   "name": "fbot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Set up your facebook messenger bot in 2 minutes.",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/jarekmachaj/fbot#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "datetime-diff": "^0.2.0",
+    "datetime-diff": "^0.2.1",
     "express": "^4.14.0",
     "fast-logger": "0.0.1",
     "request": "^2.75.0",
