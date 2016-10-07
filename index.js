@@ -170,7 +170,5 @@ msgBot.prototype.getUserDetails = function(senderid) {
     return user;
 }
 
-
-
 var fbot = new msgBot();
 module.exports = fbot;
