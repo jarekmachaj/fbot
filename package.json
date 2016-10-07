@@ -1,0 +1,36 @@
+{
+  "name": "fbot",
+  "version": "0.1.0",
+  "description": "Set up your facebook messenger bot in 2 minutes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarekmachaj/fbot.git"
+  },
+  "keywords": [
+    "bot",
+    "messenger",
+    "facebook",
+    "fbbot",
+    "messegerbot",
+    "server",
+    "responder"
+  ],
+  "author": "Jarosław Machaj <czemuja@gmail.com> (http://machaj.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarekmachaj/fbot/issues"
+  },
+  "homepage": "https://github.com/jarekmachaj/fbot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "datetime-diff": "^0.2.0",
+    "express": "^4.14.0",
+    "fast-logger": "0.0.1",
+    "request": "^2.75.0",
+    "sync-request": "^3.0.1"
+  }
+}
