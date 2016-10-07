@@ -1,6 +1,6 @@
 {
   "name": "fbot",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Set up your facebook messenger bot in 2 minutes.",
   "main": "index.js",
   "scripts": {
